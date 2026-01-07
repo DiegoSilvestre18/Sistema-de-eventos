@@ -17,6 +17,6 @@ La arquitectura sigue un modelo cliente-servidor:
 ### Frontend
 * **React:** Biblioteca principal para construir la interfaz de usuario.
 * **React Router:** Para la navegación y enrutamiento del lado del cliente.
-* **CSS / Material-UI / Tailwind CSS:** ### Backend
+* **CSS
 * **Java:** Lenguaje de programación principal.
 * **Spring Boot:** Framework para la creación de la API
